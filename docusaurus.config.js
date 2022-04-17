@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DWP Site',
   tagline: 'Programming are Cool',
-  url: 'https://Dikiwp30.github.io',
+  url: 'https://Dikiwp30.github.io.git',
   baseUrl: '/my-docu/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
